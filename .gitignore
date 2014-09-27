@@ -1,0 +1,9 @@
+*~
+*.sw[a-p]
+
+# KDE
+.directory
+
+# OSX
+.DS_Store
+Icon?
